@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nicholasob7
-- 👀 I’m interested in coding, cryptocurrency, cooking, sightseeing.
-- 🌱 I’m currently learning cloud computing.
-- 💞️ I’m looking to collaborate on Cardano projects and AWS unitec learning.
-- 📫 How to reach me nicholasob972@gmail.com, nicholasfobrien@protonmail.com, twitter nicho0101
+- 👀 I’m interested in Atrificial Intelligence, natural language  interaction with LLM's, LLM interaction with CLI and the universe entirely.
+- 🌱 I’m currently spending a lot of time interacting with AI in relation to ICT tasks and practical applications.
+- 💞️ At this time I am working on an AI project which may take some time lol.  I am also interested in several other projects I ahve in mind.
+- 📫 How to reach me nicholasob972@gmail.com, Nicko O'Brien on WhatsApp
 
 <!---
 nicholasob7/nicholasob7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
