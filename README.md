@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicholasob7
-- 👀 I’m interested in Atrificial Intelligence, natural language  interaction with LLM's, LLM interaction with CLI and the universe entirely.
+- 👀 I’m interested in Atrificial Intelligence, natural language  interaction with LLM's, LLM interaction with CLI and Agentic AI.
 - 🌱 I’m currently spending a lot of time interacting with AI in relation to ICT tasks and practical applications.
 - 💞️ At this time I am working on an AI project which may take some time lol.  I am also interested in several other projects I ahve in mind.
 - 📫 How to reach me nicholasob972@gmail.com, Nicko O'Brien on WhatsApp
