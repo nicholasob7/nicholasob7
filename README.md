@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nicholasob7
-- 👀 I’m interested in AI, natural language interaction with LLM's, LLM interaction with CLI and Agentic AI.
-- 🌱 I’m spending some time interacting with AI in relation to ICT tasks and practical applications.
-- 💞️ I am working in ICT and my own project/s using AI in my own time.
-- 📫 How to reach me nicko.obrien.ai@gmail.com
+- 👀 ICT professional focused on practical AI, language-driven workflows, and agentic tooling.
+- 🌱 I’m especially interested in natural language interaction with LLMs, CLI-based AI workflows, and applied AI for operational improvement.
+- 🛠️ My current work sits at the intersection of IT operations, structured problem-solving, and real-world use of AI in technical environments.
+- 📚 I’m interested in building clearer, more reliable ways for people to work with AI in everyday ICT tasks.
+- 📫 How to reach me: nicko.obrien.ai@gmail.com
   
 
 <!---
