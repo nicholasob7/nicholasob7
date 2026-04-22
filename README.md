@@ -4,6 +4,8 @@
 - 🛠️ My current work sits at the intersection of IT operations, structured problem-solving, and real-world use of AI in technical environments.
 - 📚 I’m interested in building clearer, more reliable ways for people to work with AI in everyday ICT tasks.
 - 📫 How to reach me: nicko.obrien.ai@gmail.com
+- 🌐 **Resume Website:** [nicko.obrienai.com](https://nicko.obrienai.com)
+  
   
 
 <!---
